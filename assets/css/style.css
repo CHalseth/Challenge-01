@@ -1,14 +1,16 @@
+/* Universal */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element start */
 body {
     background-color: #d9dcd6;
 }
 
-/* Styles for <header> */
+/* Styles for header start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +49,20 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
+/* header end */
+
+/* footer start */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+/* Elements and footer end */
 
 /* hero */
 .hero {
@@ -69,7 +85,7 @@ header a {
     margin-left: 25px;
 }
 
-/* content styles */
+/* content styles and class start */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,8 +109,9 @@ header a {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* content end */
 
-/* benefits styles */
+/* benefits styles start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,15 +135,4 @@ header a {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* footer */
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
+/* benfits styles and class end */

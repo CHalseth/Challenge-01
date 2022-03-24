@@ -14,7 +14,7 @@ A website that gives an overview of
 CHalseth.github.io/Horiseon
 
 ## Contribution
-Made with ❤️️ by Horiseon
-Code edited by Corey Halseth
+* Made with ❤️️ by Horiseon
+* Code edited by Corey Halseth
 
 ### © 2019 Horiseon Social Solution Services, Inc.

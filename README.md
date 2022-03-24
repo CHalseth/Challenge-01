@@ -11,7 +11,7 @@ A website that gives an overview of
 * CSS
 
 ## Website
-CHalseth.github.io/Horiseon
+CHalseth.github.io/Challenge-01
 
 ## Contribution
 * Made with ❤️️ by Horiseon
